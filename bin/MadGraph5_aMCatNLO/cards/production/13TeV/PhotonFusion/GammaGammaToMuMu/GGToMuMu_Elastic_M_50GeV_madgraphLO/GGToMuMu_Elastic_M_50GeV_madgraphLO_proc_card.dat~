@@ -1,4 +1,0 @@
-import model loop_qcd_qed_sm-with_all_lept_quark_masses_no_widths
-generate a a > a a [noborn=QED QCD]
-output GGToMuMu_Elastic_M_50GeV_madgraphLO -nojpeg
-
