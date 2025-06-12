@@ -1,0 +1,4 @@
+import model loop_qcd_qed_sm
+generate a a > a a [noborn=QED QCD]
+output GGToGG_madgraphLO -nojpeg
+

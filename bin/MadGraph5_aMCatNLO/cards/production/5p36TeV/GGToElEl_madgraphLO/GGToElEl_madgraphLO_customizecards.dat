@@ -1,0 +1,10 @@
+set param_card mass 6 172.5
+set param_card mass 25 125.0
+set param_card yukawa 6 172.5
+set param_card mass 15 1.77693
+set param_card mass 13 0.105658
+set param_card mass 11 0.000515
+set param_card mass 1 0.3
+set param_card mass 2 0.3
+set param_card mass 3 0.3
+set param_card sminputs 1 1.370360e+02
