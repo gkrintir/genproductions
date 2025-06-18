@@ -31,7 +31,7 @@ ProductionFilterSequence = cms.Sequence(generator)
 
 phophogenfilter = cms.EDFilter("MCParticlePairFilter",
     Status = cms.untracked.vint32(1, 1),
-    MinEt = cms.untracked.vdouble(1.0, 0.),
+    MinEt = cms.untracked.vdouble(1.0, 1.0.),
     MaxEta = cms.untracked.vdouble(3.5, 3.5),
     MinEta = cms.untracked.vdouble(-3.5, -3.5),
     ParticleCharge = cms.untracked.int32(0),
